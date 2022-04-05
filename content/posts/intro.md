@@ -1,12 +1,12 @@
 ---
 title: "La Cultura de un desarrolador de software"
-date: 2022-04-05T18:16:21-06:00
+date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
 ---
-¡Hola a todos!
---- 
+¡Hola!
+---
 Considero en lo particular que la Cultura del desarrollo de Software va muy enfocado y se basa mucho en el trabajo en equipo, eso permite mejorar nuestra calidad como personas y como desarrolladores, ya que eso se plasma en el trabajo realizado. 
 
 Los aspectos claves que hay que tomar en cuenta son, a mi parecer, los siguientes:
