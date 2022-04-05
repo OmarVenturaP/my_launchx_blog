@@ -1,6 +1,6 @@
 ---
-title: 'Mi Blog'
-date: 2022-04-05
+title: 'Blog'
+date: 2019-02-24
 menu:
   main:
     name: "Posts"
