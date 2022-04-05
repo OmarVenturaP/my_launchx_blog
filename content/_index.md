@@ -1,11 +1,11 @@
 ---
 title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Never stop exploring to learn.
 ---
 
-Hola ✌️  soy el explorer **Omar Ventura** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy **Omar Ventura** y este es mi blog personal donde compartiré mis aventuras de Launch X.
 
-Te invito a conocer mis aprendizajes y leer mis experiencias.7
+Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis espectativas para esta misión de Backend son:
 
