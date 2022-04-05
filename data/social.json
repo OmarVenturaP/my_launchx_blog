@@ -3,12 +3,12 @@
     {
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/omar-ventura-5b784b216/",
-      "image": "../docs/images/social/linkedin.svg"
+      "image": "/images/social/linkedin.svg"
     },
     {
       "name": "github",
       "url": "https://github.com/OmarVenturaP",
-      "image": "../docs/images/social/github.svg"
+      "image": "/images/social/github.svg"
     }
   ]
 }
